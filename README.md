@@ -3,3 +3,5 @@ This project involves the development of an end-to-end Power BI dashboard using 
 
 Here's the google drive link for the dataset used:
 https://docs.google.com/spreadsheets/d/1QC3gmIDBP6rHBPVsLtknQaYClGRt3aKJ/edit?usp=sharing&ouid=107889601687962970563&rtpof=true&sd=true
+
+<img width="1325" height="747" alt="Image" src="https://github.com/user-attachments/assets/72701553-e934-4bea-87bf-58f48132deb4" />
